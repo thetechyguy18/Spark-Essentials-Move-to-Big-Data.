@@ -1,0 +1,62 @@
+[
+  {
+    "patient_id": 101,
+    "name": {
+      "first_name": "Amit",
+      "last_name": "Sharma"
+    },
+    "gender": "Male",
+    "age": 45,
+    "diagnosis": "Diabetes",
+    "admission_date": "2024-01-15",
+    "city": "Delhi"
+  },
+  {
+    "patient_id": 102,
+    "name": {
+      "first_name": "Neha",
+      "last_name": "Verma"
+    },
+    "gender": "Female",
+    "age": 32,
+    "diagnosis": "Asthma",
+    "admission_date": "2024-02-10",
+    "city": "Mumbai"
+  },
+  {
+    "patient_id": 103,
+    "name": {
+      "first_name": "Rahul",
+      "last_name": "Mehta"
+    },
+    "gender": "Male",
+    "age": 29,
+    "diagnosis": "Fracture",
+    "admission_date": "2024-03-05",
+    "city": "Bangalore"
+  },
+  {
+    "patient_id": 104,
+    "name": {
+      "first_name": "Priya",
+      "last_name": "Singh"
+    },
+    "gender": "Female",
+    "age": 38,
+    "diagnosis": "Hypertension",
+    "admission_date": "2024-03-18",
+    "city": "Pune"
+  },
+  {
+    "patient_id": 105,
+    "name": {
+      "first_name": "Karan",
+      "last_name": "Patel"
+    },
+    "gender": "Male",
+    "age": 41,
+    "diagnosis": "Cardiac Issue",
+    "admission_date": "2024-04-02",
+    "city": "Ahmedabad"
+  }
+]
